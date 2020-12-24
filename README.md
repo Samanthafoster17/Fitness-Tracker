@@ -46,9 +46,9 @@ Please send any questions to: Samanthafoster17@gmail.com
 You may view GitHub profile here: 
 -[Github Profile](https://github.com/Samanthafoster17).
 
-## Images Of Site
+## Images
 ![image](https://user-images.githubusercontent.com/68489432/103102659-077a0380-45eb-11eb-8a91-b36c21638486.png)
 ![image](https://user-images.githubusercontent.com/68489432/103102661-0ba62100-45eb-11eb-9420-2d81d4b41942.png)
 
-## Link To Site
+## Link
 https://guarded-everglades-34210.herokuapp.com/?id=5fe4da6902d54900179a69a1
