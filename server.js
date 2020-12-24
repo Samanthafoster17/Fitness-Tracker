@@ -10,10 +10,11 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/fitnessDB", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
-  useFindAndModify: true
+  useCreateIndex: true,
+  useFindAndModify: false
 });
 
 // routes
